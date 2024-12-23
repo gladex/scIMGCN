@@ -22,4 +22,4 @@ This README documents the necessary steps to set up the running environment for 
 
 ### Who do I talk to? ###
 
-* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@outlook.com) or Guowei Cheng (221320010002@hhu.edu.cn).
+* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@hhu.edu.cn / bh.tang@outlook.com) or Guowei Cheng (221320010002@hhu.edu.cn).
