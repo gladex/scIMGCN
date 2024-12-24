@@ -12,7 +12,6 @@ This README documents the necessary steps to set up the running environment for 
 * Setting up scIMGCN requires an environment with Python 3.8 or newer, along with PyTorch and other necessary machine learning libraries.
 * Install all dependencies using pip: `pip install -r requirements.txt`.
 * scIMGCN does not require database configuration.
-* After setting up the dataset and pre-trained files, execute the code in the `scIMGCN.ipynb` file in order.
 * Since scIMGCN is primarily used for research and development, it does not have a specific deployment guide. Please integrate it into your project or workflow as needed.
 
 ### Contribution guidelines ###
