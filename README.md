@@ -19,6 +19,5 @@ This README documents the necessary steps to set up the running environment for 
 * Please write appropriate tests for your contributions and ensure all tests pass.
 * Submit pull requests for any changes. Project maintainers will review according to the project's coding standards.
 
-### Who do I talk to? ###
-
-* Have any questions or issues related to the repository, please contact: Dr. Binhua Tang (bh.tang@hhu.edu.cn / bh.tang@outlook.com) or Guowei Cheng (221320010002@hhu.edu.cn).
+### Citation ###
+Tang B., Cheng G., and Gao X. scIMGCN: An Automatic Single-Cell Type Annotation Method Based on Interpretable Graph Convolutional Network. Interdisciplinary Sciences: Computational Life Sciences, 2025 (In Press).
