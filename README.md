@@ -20,4 +20,4 @@ This README documents the necessary steps to set up the running environment for 
 * Submit pull requests for any changes. Project maintainers will review according to the project's coding standards.
 
 ### Citation ###
-Tang B., Cheng G., and Gao X. scIMGCN: An Automatic Single-Cell Type Annotation Method Based on Interpretable Graph Convolutional Network. Interdisciplinary Sciences: Computational Life Sciences, 2025 (In Press).
+Tang B., Cheng G., and Gao X. scIMGCN: An Automatic Single-Cell Type Annotation Method Based on Interpretable Graph Convolutional Network. Interdisciplinary Sciences: Computational Life Sciences, 2025.
